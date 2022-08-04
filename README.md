@@ -1,1 +1,1 @@
-# python_daha_geli-mi-_kullan-c-_adi_sistemi
+# python_daha_gelişmiş-_kullanici-_adi_sistemi
